@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quantity" label="Quantity" language="en" table="x_412323_shopping_shopping_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <help/>
+            <hint/>
+            <label>Quantity</label>
+            <language>en</language>
+            <name>x_412323_shopping_shopping_item</name>
+            <plural>Quantities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-05 19:01:04</sys_created_on>
+            <sys_id>f304ecaddb210010176bab7dca961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quantity</sys_name>
+            <sys_package display_value="Shopping List" source="x_412323_shopping">a512e82ddb210010176bab7dca9619c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">a512e82ddb210010176bab7dca9619c6</sys_scope>
+            <sys_update_name>sys_documentation_x_412323_shopping_shopping_item_quantity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-05 19:01:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
